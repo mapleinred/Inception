@@ -24,6 +24,7 @@ A production-grade containerized WordPress infrastructure implementing industry 
 - Infrastructure-as-Code approach
 
 ## Project Structure
+```text 
 srcs/
 ├── docker-compose.yml # Container orchestration config
 ├── .env # Environment variables (gitignored)
@@ -42,7 +43,8 @@ srcs/
 │ ├── Dockerfile # Custom WordPress image
 │ ├── conf/
 │   └── www.conf # PHP-FPM configuration
-Makefile # Project automation
+Makefile
+```
 
 ## Key Features
 
