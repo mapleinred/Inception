@@ -1,6 +1,9 @@
 # Dockerized WordPress Infrastructure (Inception Project)
 
 [![Docker](https://img.shields.io/badge/Docker-20.10%2B-blue)](https://docker.com)
+[![Docker Compose](https://img.shields.io/badge/Docker--Compose-1.29%2B-ff69b4)](https://docs.docker.com/compose/)
+[![Nginx](https://img.shields.io/badge/Nginx-1.18%2B-brightgreen)](https://nginx.org)  
+[![MariaDB](https://img.shields.io/badge/MariaDB-10.5%2B-lightgrey)](https://mariadb.org)  
 [![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-blue)](https://wordpress.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
